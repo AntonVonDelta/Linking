@@ -37,7 +37,8 @@ This is caused by incremental linking which is ON even in release.
 
 
 ## Bibliography
-https://stackoverflow.com/questions/42295270/how-import-libraries-work-exactly)
+https://stackoverflow.com/questions/42295270/how-import-libraries-work-exactly
+
 https://docs.microsoft.com/en-us/archive/msdn-magazine/2002/march/inside-windows-an-in-depth-look-into-the-win32-portable-executable-file-format-part-2
 
 ```
